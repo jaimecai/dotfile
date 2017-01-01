@@ -4,3 +4,4 @@
 # Bunch of symlinks
 
 ln -sfv ~/dotfile/vim/.vimrc ~
+ln -sfv ~/dotfile/git/.gitconfig ~
