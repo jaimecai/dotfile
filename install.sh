@@ -1,6 +1,5 @@
 #!/bin/bash
-#这个#!字符序列是一种特殊的结构叫做 shebang。 这个 shebang 被用来告诉操作系统将执行此脚本所用的解释器的名字。每个 shell 脚本都应该把这一文本行 作为它的第一行。
-
+#此行称为 shebang（就是 sharp (#) + bang (!) 的意思），会指引操作系统使用接下来指定的程序运行此文件。此处 /bin/bash 执行我们的文件。
 # Bunch of symlinks
 
 ln -sfv ~/dotfile/vim/.vimrc ~
