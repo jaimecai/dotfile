@@ -1,4 +1,4 @@
-# dotfile
+# dotfiles
 安装
 
 `git clone https://github.com/jaimecai/dotfile.git`
